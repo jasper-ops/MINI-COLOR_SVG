@@ -1,0 +1,15 @@
+<m-icon
+    name="attachment"
+    color="red"
+    size="30rpx"
+/>
+<m-icon
+    name="attachment"
+    color="green"
+    size="60rpx"
+/>
+<m-icon
+    name="attachment"
+    color="blue"
+    size="90rpx"
+/>
